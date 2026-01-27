@@ -1,0 +1,50 @@
+# ========================
+# Python
+# ========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+develop-eggs/
+eggs/
+wheels/
+pip-wheel-metadata/
+
+# Virtual Environments
+venv/
+env/
+.venv/
+ENV/
+
+# ========================
+# PyCharm / IntelliJ IDEA
+# ========================
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# ========================
+# Logs & Cache
+# ========================
+*.log
+.pytest_cache/
+.mypy_cache/
+.cache/
+
+# ========================
+# Jupyter
+# ========================
+.ipynb_checkpoints/
+
+# ========================
+# OS Files
+# ========================
+.DS_Store
+Thumbs.db
