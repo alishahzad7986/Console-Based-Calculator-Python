@@ -17,3 +17,7 @@ def mul(value_1, value_2):
 def div(value_1, value_2):
     value = value_1 / value_2
     return value
+#square
+def squ(value_1):
+    value = value_1 ** 2
+    return value
