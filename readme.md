@@ -1,52 +1,93 @@
-# Console Based Calculator
+![Image](https://github.com/user-attachments/assets/44e1feee-1621-468d-a6e3-3a7f26340d34)
 
-A simple console-based calculator built using Python. This project performs basic arithmetic operations such as addition, subtraction, multiplication, and division through a command-line interface.
+# Console-Based Scientific Calculator (Python)
 
-## Features
+A **console-based scientific calculator** built using **Python**. This project supports basic arithmetic as well as advanced mathematical operations such as trigonometric functions, logarithms, powers, and square roots. It is designed for **beginners** to practice Python fundamentals and command-line interaction.
 
-* Addition
-* Subtraction
-* Multiplication
-* Division
+---
 
-## Technologies Used
+## 🚀 Features
+
+* Basic arithmetic operations
+
+  * Addition
+  * Subtraction
+  * Multiplication
+  * Division
+* Scientific calculations
+
+  * Square root
+  * Power
+  * Logarithm
+  * Trigonometric functions (sin, cos, tan)
+* User-friendly console interface
+* Error handling for invalid inputs
+
+---
+
+## 🛠️ Technologies Used
 
 * Python 3
-* PyCharm (IDE)
+* Built-in `math` library
 
-## How to Run
+---
 
-1. Clone this repository:
+## 📂 Project Structure
+
+```
+Console-Base-Calculator-Python/
+│
+├── main.py
+├── action.py
+├── README.md
+└── .gitignore
+```
+
+---
+
+## ▶️ How to Run the Program
+
+1. Clone the repository:
 
    ```bash
-   git clone https://github.com/alishahzad7986/Console-Based-Calculator-Python.git
+   git clone https://github.com/your-username/Console-Base-Calculator-Python.git
    ```
 2. Navigate to the project folder:
 
    ```bash
-   cd Console-Based-Calculator-Python
+   cd Console-Base-Calculator-Python
    ```
-3. Run the Python file:
+3. Run the program:
 
    ```bash
    python main.py
    ```
 
-## Usage
+---
 
-* Enter two numbers when prompted.
-* Choose the desired arithmetic operation.
-* The result will be displayed in the console.
+## 🎯 Purpose of the Project
 
-## Purpose
+This project helps beginners:
 
-This project is created for learning and practicing basic Python programming concepts such as input/output, conditional statements, and loops.
+* Understand Python syntax and logic
+* Work with functions and loops
+* Use Python’s built-in libraries
+* Build confidence in command-line applications
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome!
+Feel free to fork this repository and submit a pull request.
+
+---
 
 ## Author
-
 Ali Shahzad
 
-## License
+---
 
-This project is open-source and available under the MIT License.
+## 📄 License
 
+This project is open-source and available under the **MIT License**.
