@@ -22,7 +22,11 @@ elif operators == "/":
     value_2 = int(input("Enter the number: "))
     res =div(value_1, value_2)
     print(res)
-elif  operators == "**":
+elif  operators == "2":
     value_1 = int(input("Enter your number: "))
     res= squ(value_1)
+    print(res)
+elif operators == "3":
+    value_1 = int(input("Enter your number: "))
+    res = cub(value_1)
     print(res)

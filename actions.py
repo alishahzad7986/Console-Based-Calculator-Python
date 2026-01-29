@@ -21,3 +21,7 @@ def div(value_1, value_2):
 def squ(value_1):
     value = value_1 ** 2
     return value
+# cube
+def cub(value_1):
+    value = value_1 ** 3
+    return value
