@@ -25,3 +25,7 @@ def squ(value_1):
 def cub(value_1):
     value = value_1 ** 3
     return value
+# exponent
+def exp(value_1, value_2):
+    value = value_1 ** value_2
+    return value

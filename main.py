@@ -30,3 +30,8 @@ elif operators == "3":
     value_1 = int(input("Enter your number: "))
     res = cub(value_1)
     print(res)
+elif operators == "^":
+    value_1 = int(input("Enter your number: "))
+    value_2 = int(input("Enter the power: "))
+    res= exp(value_1, value_2)
+    print(res)
